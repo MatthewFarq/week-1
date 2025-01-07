@@ -6,10 +6,6 @@ function App() {
       <h1 className="text-5xl font-bold mb-6">React + Tailwind Button</h1>
       <Button text="Click Me" color="bg-blue-500 hover:bg-blue-700" />
       <Button text="Delete" color="bg-red-500 hover:bg-red-700" />
-      <Button
-        text="New Button!"
-        color="bg-green-500 hover:bg-green-700"
-      ></Button>
     </div>
   );
 }
