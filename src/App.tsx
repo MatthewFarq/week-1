@@ -2,7 +2,7 @@ import Button from "./Button";
 
 function App() {
   return (
-    <div className="flex flex-col items-center justify-center  p-2 gap-4 min-h-screen bg-gray-100">
+    <div className="flex flex-col items-center justify-center p-2 gap-4 min-h-screen bg-gray-100">
       <h1 className="text-3xl text-center font-bold mb-6">
         React + Tailwind Button
       </h1>
